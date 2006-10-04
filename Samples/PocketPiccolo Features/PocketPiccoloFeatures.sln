@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "PocketPiccoloFeatures", "Source\PocketPiccoloFeatures.csdproj", "{2F8FF38F-A277-4ABB-8C09-16FB330BE04A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2F8FF38F-A277-4ABB-8C09-16FB330BE04A}.Debug.ActiveCfg = Debug|Pocket PC
+		{2F8FF38F-A277-4ABB-8C09-16FB330BE04A}.Debug.Build.0 = Debug|Pocket PC
+		{2F8FF38F-A277-4ABB-8C09-16FB330BE04A}.Debug.Deploy.0 = Debug|Pocket PC
+		{2F8FF38F-A277-4ABB-8C09-16FB330BE04A}.Release.ActiveCfg = Release|Pocket PC
+		{2F8FF38F-A277-4ABB-8C09-16FB330BE04A}.Release.Build.0 = Release|Pocket PC
+		{2F8FF38F-A277-4ABB-8C09-16FB330BE04A}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

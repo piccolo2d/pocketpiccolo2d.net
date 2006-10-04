@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "PocketPiccolo", "PocketPiccolo\PocketPiccolo.csdproj", "{B24C484B-5AFF-460E-B099-C37C44DFA11B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "PocketPiccoloX", "PocketPiccoloX\PocketPiccoloX.csdproj", "{84B7296E-D2F5-4C03-959A-78AD38DAB4C5}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B24C484B-5AFF-460E-B099-C37C44DFA11B}.Debug.ActiveCfg = Debug|Pocket PC
+		{B24C484B-5AFF-460E-B099-C37C44DFA11B}.Debug.Build.0 = Debug|Pocket PC
+		{B24C484B-5AFF-460E-B099-C37C44DFA11B}.Debug.Deploy.0 = Debug|Pocket PC
+		{B24C484B-5AFF-460E-B099-C37C44DFA11B}.Release.ActiveCfg = Release|Pocket PC
+		{B24C484B-5AFF-460E-B099-C37C44DFA11B}.Release.Build.0 = Release|Pocket PC
+		{B24C484B-5AFF-460E-B099-C37C44DFA11B}.Release.Deploy.0 = Release|Pocket PC
+		{84B7296E-D2F5-4C03-959A-78AD38DAB4C5}.Debug.ActiveCfg = Debug|Pocket PC
+		{84B7296E-D2F5-4C03-959A-78AD38DAB4C5}.Debug.Build.0 = Debug|Pocket PC
+		{84B7296E-D2F5-4C03-959A-78AD38DAB4C5}.Debug.Deploy.0 = Debug|Pocket PC
+		{84B7296E-D2F5-4C03-959A-78AD38DAB4C5}.Release.ActiveCfg = Release|Pocket PC
+		{84B7296E-D2F5-4C03-959A-78AD38DAB4C5}.Release.Build.0 = Release|Pocket PC
+		{84B7296E-D2F5-4C03-959A-78AD38DAB4C5}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
